@@ -58,9 +58,9 @@ rag-pipeline/
 ## API Documentation
 
 ### Health Check
-```http
+```
 GET /health
-
+```
 ![Health Check API](images/health-endpoint.png)
 
 ### Process Document
@@ -78,8 +78,6 @@ POST /docs
 - OpenAI API key
 
 ### Running with Docker
-
-
 
 1. Build and run the Docker container:
 ```bash
