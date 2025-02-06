@@ -1,0 +1,12 @@
+streamlit==1.26.0
+sentence-transformers
+PyPDF2
+python-docx
+numpy
+faiss-cpu
+openai
+fastapi  
+uvicorn  
+python-multipart
+
+#only streamlit is using specific version others are using last version, the best practice is define all libraries version :) 
