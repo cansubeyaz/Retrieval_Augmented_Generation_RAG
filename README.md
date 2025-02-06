@@ -16,7 +16,7 @@ This project implements a Retrieval-Augmented Generation (RAG) system that proce
 
 ## Project Structure
 ```
-rag-pipeline/
+Retrieval_Augmented_Generation_RAG/
 ├── app/
 │   ├── __init__.py
 │   ├── api.py
